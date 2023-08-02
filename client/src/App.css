@@ -1,0 +1,56 @@
+body {
+  margin:0;
+  padding:0;
+  width:100%; 
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: none;
+
+}
+
+input[type="file"] {
+  display: none;
+}
+
+
+#loginline {
+  text-decoration: none;
+}
+
+.breed-image {
+  width: 200px;
+  height: 150px;
+}
+
+.side-menu {
+  width: 250px;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+.side-menu ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.side-menu li {
+  margin-bottom: 10px;
+}
+
+.list-group-item-action.active {
+  background-color: #C2DEDC;
+  color: black;
+}
+
+
+
+.bg-custom-primary {
+  background-color: #116A7B; /* Replace with your desired primary color */
+}
